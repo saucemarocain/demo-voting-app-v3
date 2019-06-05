@@ -24,4 +24,4 @@ spec:
 
   selector:
     matchLabels:
-      app: redis-pod
+      app: demo-voting-app
